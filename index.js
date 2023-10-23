@@ -1,1 +1,3 @@
-console.log("oi");
+let nome = "jackline";
+
+console.log(nome);
